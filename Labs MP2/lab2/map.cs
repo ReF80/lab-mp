@@ -28,7 +28,6 @@ public class Comparator<TKey> where TKey : IComparable<TKey>
     }
 }
 
-// Основной класс Map
 public class Map<TKey, TValue> where TKey : IComparable<TKey>
 {
     private Node<TKey, TValue>? root;
@@ -61,8 +60,10 @@ public class Map<TKey, TValue> where TKey : IComparable<TKey>
     {
         if (root == null)
         {
-            root = new Node<TKey, TValue>(key, value);
-            root.IsRed = false; // Корень всегда черный
+            root = new Node<TKey, TValue>(key, value)
+            {
+                IsRed = false // Корень всегда черный
+            };
         }
         else
         {

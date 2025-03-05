@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Labs MP2\\Labs MP2\\Labs MP2.csproj",
+      "projectUniqueName": "D:\\lab--mp\\Labs MP2\\Labs MP2.csproj",
       "projectName": "Labs MP2",
-      "projectPath": "D:\\Labs MP2\\Labs MP2\\Labs MP2.csproj",
+      "projectPath": "D:\\lab--mp\\Labs MP2\\Labs MP2.csproj",
       "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-      "outputPath": "D:\\Labs MP2\\Labs MP2\\obj\\",
+      "outputPath": "D:\\lab--mp\\Labs MP2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
