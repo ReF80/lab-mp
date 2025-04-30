@@ -9,12 +9,12 @@ Implementation of various data structures and work with them
   5. Graphs
 
 ## What algorithms are implemented for graphs
-  – depth-first search;
-  – breadth-first search;
-  – Dijkstra's algorithm;
-  – Kruskal's algorithm;
-  – Prim's algorithm;
-  – Floyd-Warshall algorithm;
+  - depth-first search;
+  - breadth-first search;
+  - Dijkstra's algorithm;
+  - Kruskal's algorithm;
+  - Prim's algorithm;
+  - Floyd-Warshall algorithm;
   - Tarjan's algorithm for topological sorting;
   - Fleury's algorithm;
   - Euler cycle search algorithm based on cycle union;
